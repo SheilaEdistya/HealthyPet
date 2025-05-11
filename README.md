@@ -46,7 +46,6 @@ Tujuan Utama
    - Helper
    - Keterangan
 
-tabel
 
 Manfaat Aplikasi
 - Mempermudah penyimpanan dan akses data kunjungan hewan.
